@@ -1,24 +1,28 @@
-# Custom Cybersecurity Tools and Scanners
+# Tools and Scanners Repository
 
-Welcome to the **Custom Cybersecurity Tools and Scanners** repository! This project features a collection of custom-built tools designed for various security assessments and penetration testing activities.
+Welcome to the Tools and Scanners repository! This repository serves as a collection of cybersecurity tools designed for both red team and blue team activities. It includes custom-made tools and scanners that can enhance your security posture and aid in various cybersecurity tasks.
 
-## Overview
+## Contents
 
-This repository provides a variety of tools aimed at enhancing security practices and facilitating effective security assessments.
+- **Red Team Tools**: A collection of offensive security tools designed to help security professionals test the effectiveness of their defenses.
+  - [Red Team Tools Repository](https://github.com/1amrahul/RedTeam-Tools)
+
+- **Blue Team Tools**: A set of defensive security tools aimed at helping organizations protect their assets and respond to security incidents.
+  - [Blue Team Tools Repository](https://github.com/1amrahul/BlueTeam-Tools)
+
+- **Custom Tools and Scanners**: This repository also includes various custom tools and scanners tailored for specific cybersecurity needs. These tools can assist in tasks such as vulnerability assessment, penetration testing, and network scanning.
+
+## Usage
+
+Please explore the repositories linked above for more detailed information on individual tools and their usage instructions. Each tool may have its own documentation to guide you through installation and configuration.
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for new tools, improvements, or bug fixes, feel free to submit a pull request.
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingTool`).
-3. Commit your changes (`git commit -m 'Add some AmazingTool'`).
-4. Push to the branch (`git push origin feature/AmazingTool`).
-5. Open a pull request.
+Contributions are welcome! If you have custom tools or scanners that you believe would benefit the community, feel free to fork this repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
